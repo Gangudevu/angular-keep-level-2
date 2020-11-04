@@ -1,0 +1,21 @@
+.addnotesection {
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 5%;
+}
+
+.matinput {
+  width: 100%;
+}
+
+.notessection{
+  width: 50%;
+  margin-left: 10%;
+}
+
+mat-card {
+  display:inline-block;
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+
